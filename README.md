@@ -16,4 +16,4 @@
 <p>This web crowler scrape dress item details only with fashion web site checkout link. 
 This web crowler helps to growth fashion store visitors.</p>
 
-<b>Developer <a href="https://www.linkedin.com/in/ananth-haniman/">Ananthamoorthy Haniman</a></b>
+
